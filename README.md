@@ -1,6 +1,6 @@
 # Python Hackathon
 
-<img src="Materials_Resources/qcbCollaboratory_logo.png" height="50"/>
+<img src="Resources/qcbCollaboratory_logo.png" height="50"/>
 
 Many of you who enjoyed the Collaboratory workshops have requested the opportunity to continue improving your computational skills beyond the workshop. We're pleased to announce a new event for those with interest in computational and quantitative methods in biology: **a Hackathon dedicated to solving problems of interest to our community**, using Python.
 
@@ -11,7 +11,7 @@ Many of you who enjoyed the Collaboratory workshops have requested the opportuni
 - [Coding problems](#coding-problems)
 - [Who is this Hackathon intended for?](#who-is-this-hackathon-intended-for)
 - [Frequently asked questions](./Materials_Resources/FAQ.md)
-
+- [Python Hackathon - Fall 2017](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017)
 
 Our idea is to organize a Hackathon over a single day (December 8th, 2017), and spend this day solving a set of coding problems. These coding problems will consist of common issues faced by many of us in our research. **Collaboratory fellows will be present throughout the whole day to provide personal and tailored assistance.** We will encourage every participant to go in their own pace and speed. Collaborative work in groups is also encouraged.
 
@@ -66,7 +66,7 @@ During the Hackathon, we will be solving together the following problems. You sh
 
 1. [**Analysis of calcium imaging.**](./Resources/Problem-1/Readme.md) We will use videos of fluorescent calcium indicator Oregon Green in endothelial cells to practice how to extract fluorescence time series of a set of cells and estimate their calcium concentration.
 
-2. [**Job monitoring system for hoffman2.**](./) To explore this method, we will create a model that predicts expression levels of the Hok-Sok system, a postsegregational killing mechanism often used as kill switch in synthetic biology.
+2. [**Job monitoring system for hoffman2.**](./) We started a simple project to help people monitor jobs submitted to hoffman2. Come help us build this tool to learn about Python and Unix. Contributors may receive co-authorship in a possible upcoming publication of this software.
 
 3. [**To be announced.**](./) The third problem will be announced soon.
 
