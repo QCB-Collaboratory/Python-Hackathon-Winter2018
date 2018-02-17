@@ -82,4 +82,4 @@ The hackathon is suitable for anyone who regularly uses or wishes to regularly u
 This event is sponsored by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/), and was organized by the following fellows:
 
 * [Thiago Mosqueiro](http://thmosqueiro.vandroiy.com/)
-* [Renaud Dessalles](https://www.researchgate.net/profile/Renaud_Dessalles)
+* [Renaud Dessalles](https://dessalles.github.io/)
