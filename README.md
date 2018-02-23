@@ -55,9 +55,8 @@ Time           | Event
 9:30 - 10:00   | Quick presentation about the Hackahton and overview of the problems
 10:00 - 12:30  | First coding session
 12:30 - 2:00pm | Lunch while coding
-2:00 - 4:00    | Second coding session
-4:00 - 4:30    | Final remarks and **discussions about the future**
-4:30 - 5:00    | Summary of what was done in each project
+2:00 - 3:30    | Second coding session
+3:30 - 4:00    | Final remarks and **discussions about the future**
 
 
 ## Coding problems
