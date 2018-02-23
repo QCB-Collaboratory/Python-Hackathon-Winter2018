@@ -13,6 +13,11 @@ Many of you who enjoyed the Collaboratory workshops have requested the opportuni
 - [Frequently asked questions](./Materials_Resources/FAQ.md)
 - [Python Hackathon - Fall 2017](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017)
 
+
+<img src="Resources/Collaboratory-Hackathon_flyer_Winter2018.png" width=500 />
+
+<br />
+
 Our idea is to organize a Hackathon over a single day (December 8th, 2017), and spend this day solving a set of coding problems. These coding problems will consist of common issues faced by many of us in our research. **Collaboratory fellows will be present throughout the whole day to provide personal and tailored assistance.** We will encourage every participant to go in their own pace and speed. Collaborative work in groups is also encouraged.
 
 To ensure that these problems are of relevance to a large number of people, we are asking for everyone interested to submit suggestions of problems that you, or colleagues, may want help tackling. This is a great opportunity to get help with a problem you're stuck on as we learn together how to overcome coding challenges. With a set of relevant problems, we can offer tailored assistance in advanced topics with Python, creating a stronger connection between the contents of our workshop and your research and going beyond the basic material provided by the current Collaboratory workshop. **The hackathon is suitable for anyone who regularly uses or wishes to regularly use Python for their research, regardless of their level of expertise with programming languages.** The only requirement is the [Introduction to Python workshop](https://qcb.ucla.edu/collaboratory/workshops/collaboratory-workshop-9/).
@@ -28,11 +33,6 @@ To ensure that these problems are of relevance to a large number of people, we a
 
 * **Want to make comments that are visible to everyone in the Hackathon?** We can use our [Issues page](https://github.com/QCB-Collaboratory/Python-Hackathon-Winter2018/issues) to share general comments and questions relevant to everyone. You'll need an account (takes 2 minutes to create one!), but no knowledge of git is required.
 
-<br />
-
-<img src="Resources/Collaboratory-Hackathon_flyer_Winter2018.png" width=500 />
-
-<br />
 
 ## When? Where?
 
