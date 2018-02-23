@@ -7,7 +7,7 @@ The dataset used in this problem was kindly provided by [Dr. Julia Mack](https:/
 <br />
 ### Samples of 600s calcium imaging
 
-* [Notch1KD_JMackNatComm2017_samples.hdf5 (4.7G)](https://drive.google.com/open?id=1WeNKYMnC6FqVK5IeVbYVC6DkGD2KDlfR)
+* [Notch1KD_JMackNatComm2017_samples.hdf5 (4.7G, zipped)](https://drive.google.com/file/d/1wj0nQMovqqxgx1ckBwaztQfv1LeMDD-2/view?usp=sharing)
 
 This h5 file contains 4 datasets:
 
