@@ -28,7 +28,11 @@ To ensure that these problems are of relevance to a large number of people, we a
 
 * **Want to make comments that are visible to everyone in the Hackathon?** We can use our [Issues page](https://github.com/QCB-Collaboratory/Python-Hackathon-Winter2018/issues) to share general comments and questions relevant to everyone. You'll need an account (takes 2 minutes to create one!), but no knowledge of git is required.
 
+<br />
 
+<img src="Resources/Collaboratory-Hackathon_flyer_Winter2018.png" width=500 />
+
+<br />
 
 ## When? Where?
 
