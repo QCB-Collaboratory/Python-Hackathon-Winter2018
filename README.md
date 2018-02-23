@@ -27,7 +27,7 @@ To ensure that these problems are of relevance to a large number of people, we a
 
 * [Official home page of the Hackathon.](https://qcb.ucla.edu/collaboratory/hackathon)
 
-* [Slides](./) presented at the beggining of the Hackathon (soon!).
+* [Slides](./Resources/slides/PythonHackathon_Feb2018_TheCollaboratory_UCLA.pdf) presented at the beggining of the Hackathon.
 
 * For more information or to contact us, please send us an e-mail: thmosqueiro@ucla.edu
 
